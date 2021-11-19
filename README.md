@@ -16,3 +16,6 @@ $ python substitute.py -r rough_sequences.fasta -a accurate_sequences.fasta -o <
 
 ## 検証
 置換前と置換後の2配列をアライメントして、結果を可視化する(追記予定)
+
+
+test
